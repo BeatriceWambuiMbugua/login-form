@@ -4,13 +4,13 @@ This repository contains a simple, responsive login form designed with HTML and 
 
 ## Features
 
-* **Responsive Design** : The form is designed to be responsive, ensuring it looks great on all devices.
+* **Responsive Design**: The form is designed to be responsive, ensuring it looks great on all devices.
 
-* **Customizable Styles** : The CSS is easily customizable, allowing you to change colors, fonts, and other design elements to match your brand.
+* **Customizable Styles**: The CSS is easily customizable, allowing you to change colors, fonts, and other design elements to match your brand.
 
-* **Accessible Inputs** : The form includes accessible input fields, with placeholders and labels for better accessibility.
+* **Accessible Inputs**: The form includes accessible input fields, with placeholders and labels for better accessibility.
 
-* **Enhanced User Experience** : Features like a "Remember me" checkbox and a "Forgot Password?" link enhance the user experience.
+* **Enhanced User Experience**: Features like a "Remember me" checkbox and a "Forgot Password?" link enhance the user experience.
 
 ## Library Used
 
@@ -22,12 +22,10 @@ This repository contains a simple, responsive login form designed with HTML and 
 
 To use this login form, follow these steps:
 
-1. **Clone the Repository** : Clone this repository to your local machine using Git.
+1. **Clone the Repository**: Clone this repository to your local machine using Git.
 
 ``` 
-
 git clone https://github.com/your-username/login-form.git 
-
 ```
 
 2. **Customize the Form** : Open the ```index.html``` file in your favorite code editor. You can customize the form by editing the HTML and CSS files.
@@ -36,11 +34,11 @@ git clone https://github.com/your-username/login-form.git
 
 ## Customization
 
-* **Change Fonts** : The form uses the "Outfit" font from Google Fonts. You can change the font by modifying the link in the ```<head>``` section of the HTML file.
+* **Change Fonts**: The form uses the "Outfit" font from Google Fonts. You can change the font by modifying the link in the ```<head>``` section of the HTML file.
 
 * **Modify Colors and Styles** : The CSS file (```styles.css```) contains all the styling for the form. You can customize the colors, fonts, and other design elements by editing this file.
 
-* **Add Functionality** : The form currently does not include any backend functionality. You can add login functionality by modifying the ```action``` attribute of the ```<form>``` tag and implementing server-side logic.
+* **Add Functionality**: The form currently does not include any backend functionality. You can add login functionality by modifying the ```action``` attribute of the ```<form>``` tag and implementing server-side logic.
 
 
 ## Contributing
