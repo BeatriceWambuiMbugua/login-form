@@ -20,6 +20,10 @@ This repository contains a simple, responsive login form designed with HTML and 
 
 2. [Boxicons](https://boxicons.com/)
 
+## Live Demo
+
+* [Login Form](https://beatricewambuimbugua.github.io/login-form/)
+
 ## Getting Started
 
 To use this login form, follow these steps:
