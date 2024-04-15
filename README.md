@@ -1,3 +1,5 @@
+![image](https://github.com/BeatriceWambuiMbugua/login-form/assets/68596845/71f73e6f-f549-4c4f-9d0b-0e1d5e1f6d3a)
+
 # Simple Login Form
 
 This repository contains a simple, responsive login form designed with HTML and CSS. The form is styled to be visually appealing and user-friendly, featuring a modern design with a focus on accessibility and ease of use.
